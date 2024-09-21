@@ -21,4 +21,4 @@ I believe in taking full responsibility for my learning and embracing challenges
 - Maintaining a structured problem-solving approach
 
 ## Get in Touch
-Feel free to connect with me on [GitHub](https://github.com/prateekkumary) or reach out via email at [your-email@example.com].
+Feel free to connect with me on [GitHub](https://github.com/prateekkumary) or reach out via email at [prateekkumary73@gmail.com].
