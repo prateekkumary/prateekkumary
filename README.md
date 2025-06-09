@@ -5,6 +5,7 @@ I am a passionate developer with a focus on JavaScript and data manipulation. I 
 
 ## Skills
 - JavaScript
+- Java/SpringBoot
 - Node.js
 - JSON Manipulation
 - Git & GitHub
